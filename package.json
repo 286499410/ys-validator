@@ -1,7 +1,7 @@
 {
-  "name": "ys-model",
+  "name": "ys-validator",
   "version": "1.0.0",
-  "description": "model",
+  "description": "validator",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
