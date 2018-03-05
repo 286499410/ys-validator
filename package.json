@@ -1,0 +1,24 @@
+{
+  "name": "ys-model",
+  "version": "1.0.0",
+  "description": "model",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/286499410/ys-validator.git"
+  },
+  "keywords": [
+    "data",
+    "validate",
+    "validator"
+  ],
+  "author": "Joey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/286499410/ys-validator/issues"
+  },
+  "homepage": "https://github.com/286499410/ys-validator#readme"
+}
